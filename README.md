@@ -1,6 +1,6 @@
 # HEIC to JPG Converter
 
-A simple javascript code to convert HEIC images files to JPG format and optionally deletes the original HEIC files after conversion.
+A simple tool to convert HEIC images files to JPG format and optionally deletes the original HEIC files after conversion.
 
 ## Why Use This?
 
